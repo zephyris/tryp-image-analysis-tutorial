@@ -1,0 +1,6 @@
+Tagged Trypanosoma brucei procyclic trypomastigotes in log culture in SDM79
+Cells expressing N terminally tagged Histone H3, tagge with mNG
+63x phase contrast, mNG and DNA stain (Hoechst 33342) fluorescence using a 6.5um pixel size sCMOS camera
+2304x1856px crop, corresponding to 237.8x191.6um field of view
+
+Images courtesy of TrypTag.org: http://tryptag.org/?id=Tb927.1.2430
